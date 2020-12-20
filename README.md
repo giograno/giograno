@@ -25,7 +25,7 @@ I mainly work in the area of Search-Based Software Testing (SBST), Software main
 I spent the 2020 summer as intern at JetBrains in Munich working on [Space](https://www.jetbrains.com/space/).
 
 ### 🏃‍♂️
-I am a marathoner runner. I am the 2020 Italian Marathon Champ,
+I am a marathoner runner with a personal best of 2:14:31. I am the 2020 🇮🇹 marathon champion.
 You can follow my runs on [Strava](https://www.strava.com/athletes/20803711).
 Have a look at my profile on [World Athletics](https://www.worldathletics.org/athletes/italy/giovanni-grano-14386274) if you wanna know more.
 I like doing research, coding, travelling, good coffee and good food. Lately, I bought a mirrorless camera.
