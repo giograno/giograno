@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 My name is Giovanni (or better, Gio).
 
-- 🏡 I am Giovanni and I come from Molise, a tiny but marvellous region in the south of Italy.
+- 🏡 I come from Molise, a tiny but marvellous region in the south of Italy.
 - 🎓 I got a Ph.D. from the University of Zurich. I was part of the [s.e.a.l.](https://www.ifi.uzh.ch/en/seal/people/grano.html) group and I did research on various aspects of test automation.
 - 🧑‍💻 I am a Software Engineer based in 🇨🇭.
 - 🏃‍♂️ I am a 2:13 marathon runner.
