@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Giovanni (or better, Gio).
+My name is Gio.
 
 - 🏡 I come from Molise, a tiny but marvelous region in the south of Italy.
 - 🎓 I got a Ph.D. at the [s.e.a.l.](https://www.ifi.uzh.ch/en/seal/people/grano.html) group from the University of Zurich. 
-- 🧑‍💻 I am a Software Engineer based in :us:.
+- 🧑‍💻 I am a Software Engineer based in 🇨🇭.
 - 🏃‍♂️ I am a 2:13 marathon runner.
